@@ -1,0 +1,29 @@
+{
+  "React Native Functional Component (Dynamic Name)": {
+    "prefix": "rnfc",
+    "body": [
+      "import React from 'react';",
+      "import { View, Text, StyleSheet } from 'react-native';",
+      "",
+      "interface ${1:$TM_FILENAME_BASE}Props {}",
+      "",
+      "export const ${1:$TM_FILENAME_BASE} = ({}: ${1:$TM_FILENAME_BASE}Props) => {",
+      "  return (",
+      "    <View style={styles.container}>",
+      "      <Text>${1:$TM_FILENAME_BASE}</Text>",
+      "    </View>",
+      "  );",
+      "};",
+      "",
+      "const styles = StyleSheet.create({",
+      "  container: {",
+      "    flex: 1,",
+      "    justifyContent: 'center',",
+      "    alignItems: 'center',",
+      "  },",
+      "});",
+      "$0"
+    ],
+    "description": "Crea un componente funcional de React Native con nombre dinámico basado en el archivo."
+  }
+}
