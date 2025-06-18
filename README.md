@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -98,5 +97,4 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 =======
 # myfirstapp
-react-native app, just for practice basci concepts
->>>>>>> bff66b276d45ee5fdfcb23b4b738b3c853a9c92d
+react-native app, just for practice basic concepts
